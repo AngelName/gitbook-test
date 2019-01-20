@@ -1,14 +1,8 @@
 ---
-description: 初始化页面
+description: react v16.7.0
 ---
 
-# Initial page
+# react中文翻译
 
-## 标题一
-
-### 二级标题
-
-#### 三级标题
-
-
+## 
 

@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [react中文翻译](README.md)
+* [Main Concepts](main-concepts/README.md)
+  * [hello world](main-concepts/hello-world.md)
+* [Untitled](untitled.md)
 
 ## groups
-
-* [Untitled](groups/untitled.md)
 
