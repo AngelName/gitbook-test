@@ -188,7 +188,3 @@ const element = {
 我们建议使用 “Babel“语言定义[“Babel” language ](http://babeljs.io/docs/editors) 给你的编辑器，它为ES6和JSX代码提供高亮，这个网站使用Oceanic Next 配色方案兼容它
 {% endhint %}
 
-
-
-
-
