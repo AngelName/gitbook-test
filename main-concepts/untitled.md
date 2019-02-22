@@ -63,6 +63,42 @@ function tick() {
 setInterval(tick, 1000);
 ```
 
+它调用`ReactDOM.render()` 每秒通过`setInterval()` 回调
+
+{% hint style="warning" %}
+**Node:**
+
+在practice\(实践\)中，大多数React 应用只调用ReactDOM.render\(\)一次，下一节我们学习如何得到一个encapsulated（封装）到有状态的组件
+
+我们建议你别跳节看，它们之间相互依赖
+{% endhint %}
+
+### React Only Updates What's Necessary
+
+React DOM 比较元素和它的子节点当前状态和前一个状态，并只在DOM desired（需要的）状态下做必需的更新
+
+你可以检查验证下面的例子通过浏览器工具
+
+尽管我们创建了一个在每一秒描述整个UI树的元素，只有text节点内容通过React DOM 得到了更新的改变
+
+我们的experience\(经验\)告诉我们，考虑到用户界面应该如何展示任何给定的时刻，而不是如何随着时间的推移而改变它，可以消除一类的bug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
