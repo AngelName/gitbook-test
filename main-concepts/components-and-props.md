@@ -1,6 +1,8 @@
+---
+description: 才分UI为组件，传入参数为props
+---
+
 # Components and Props
-
-
 
 ## Componts and Props
 
